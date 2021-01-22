@@ -1,0 +1,55 @@
+
+*{
+  padding: 0px;
+}
+
+body{
+  background: url('https://loff.it/wp-content/uploads/2017/12/loffit-louboutin-llena-el-arbol-de-regalos-01.jpeg');
+  background-size: cover;
+  min-height: 100vh;
+  background-position: center;
+}
+
+.main-wrapper{
+  padding: 0px;
+}
+
+.image{
+  height: 20vh;
+}
+
+.App {
+  text-align: center;
+  
+  background-size: cover;
+  /* min-height: 100vh; */
+  background-position: center;
+  overflow: auto;
+  font-size: 4vh;
+  font-family: revert;
+  color: #02117a;
+}
+
+.container{
+  background-color: rgba(228, 228, 228, 0.651);
+  margin-top: 10vh;
+  overflow: auto;
+  padding: 10px;
+  min-height: 15vh;
+}
+
+.foter{
+  min-height: 5vh;
+  margin-top: 40vh;
+  background-color: rgba(228, 228, 228, 0.651);
+}
+
+.cards{
+  /* align-items: center; */
+  text-align: center;
+  padding: 4rem;
+}
+
+.card{
+  margin: 1rem;
+}
